@@ -1,0 +1,6 @@
+c:\users\cmaina\documents\visual studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Debug\TechnoBrainApplication.exe
+c:\users\cmaina\documents\visual studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Debug\TechnoBrainApplication.pdb
+c:\users\cmaina\documents\visual studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\x86\Debug\TechnoBrainApplication.exe
+c:\users\cmaina\documents\visual studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\x86\Debug\TechnoBrainApplication.pdb
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\x86\Debug\TechnoBrainApplication.csproj.AssemblyReference.cache
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\x86\Debug\TechnoBrainApplication.csproj.CoreCompileInputs.cache

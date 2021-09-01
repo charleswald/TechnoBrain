@@ -1,0 +1,12 @@
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\TechnoBrainApplication.exe.config
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\TechnoBrainApplication.exe
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\TechnoBrainApplication.pdb
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\Release\TechnoBrainApplication.csproj.AssemblyReference.cache
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\Release\TechnoBrainApplication.csproj.CoreCompileInputs.cache
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\Release\TechnoBrainApplication.csproj.CopyComplete
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\Release\TechnoBrainApplication.exe
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplication\obj\Release\TechnoBrainApplication.pdb
