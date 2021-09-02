@@ -1,0 +1,11 @@
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\TechnoBrainApplicationTests.dll
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\TechnoBrainApplicationTests.pdb
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\TechnoBrainApplication.exe
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\TechnoBrainApplication.pdb
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\bin\Debug\TechnoBrainApplication.exe.config
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\obj\Debug\TechnoBrainApplicationTests.csproj.AssemblyReference.cache
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\obj\Debug\TechnoBrainApplicationTests.csproj.CoreCompileInputs.cache
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\obj\Debug\TechnoBrainApplicationTests.csproj.CopyComplete
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\obj\Debug\TechnoBrainApplicationTests.dll
+C:\Users\cmaina\Documents\Visual Studio 2010\Projects\TechnoBrainApplication\TechnoBrainApplicationTests\obj\Debug\TechnoBrainApplicationTests.pdb
